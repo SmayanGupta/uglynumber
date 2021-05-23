@@ -8,7 +8,7 @@ def prime(n):
             return True
 
 
-#print(prime(19))
+print(prime(19))
 
 
 def ugly(n):
