@@ -9,8 +9,8 @@ def prime(n):
 
 
 print(prime(19))
-
-
+print(prime(20))
+           
 def ugly(n):
     
     if(n%2==0) or(n%3==0) or (n%5==0):
